@@ -94,6 +94,7 @@ Step-by-step instructions, rules, and output format.
 - [incident-commander](https://github.com/milad-ahmd/incident-commander) - Run a production outage from triage to mitigation, status updates and a blameless postmortem.
 - [app-store-optimizer](https://github.com/milad-ahmd/app-store-optimizer) - App Store and Google Play ASO: keywords, titles, screenshot captions, review replies, A/B tests.
 - [skills-doctor](https://github.com/milad-ahmd/skills-doctor) - Audit your installed skills for broken frontmatter, vague triggers, conflicts and leaked secrets.
+- [capability-value-test](https://github.com/EthanZhu-07/capability-value-test) - Compare an existing workflow with a newly integrated capability through a human-approved A/B test and generate a visual, traceable HTML report.
 
 ## Social platform agents
 
