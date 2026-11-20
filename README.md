@@ -124,6 +124,7 @@ Step-by-step instructions, rules, and output format.
 - [competitor-spy](https://github.com/milad-ahmd/competitor-spy) - Competitor analysis of pricing, messaging, socials, ads and reviews, with a SWOT and opportunities.
 - [influencer-outreach](https://github.com/milad-ahmd/influencer-outreach) - Influencer and UGC campaigns: vetting, outreach DMs, briefs and tracking.
 - [social-analytics-reporter](https://github.com/milad-ahmd/social-analytics-reporter) - Social media analytics exports into a clear report with KPIs, reasons and next actions.
+- [小红书图文与实况图·红鸦 AI](https://github.com/xiaoxuux/redya-skills/tree/73a1529fd3cb9303195b7370d492dbf57a6b7604/skill/redya-xiaohongshu) - Generate illustrated Xiaohongshu posts and Live Photos from a topic, product image, or reference note.
 
 ## Ideas wanted
 
